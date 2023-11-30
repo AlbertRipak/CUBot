@@ -1,4 +1,4 @@
-<b>Цей бот використовується для сповіщення про оновлення, додавання чи інші дії з сетифікатами різних структур.</b>
+<b>Цей бот використовується для сповіщення про оновлення, додавання чи інші дії з сетифікатами різних структур.</b><br>
 <p>Основними джерелами є:</p>
 <table>
     <tr>
@@ -12,3 +12,7 @@
         <td><a>https://iit.com.ua/download/productfiles/CACertificates.zip</a></td>
     </tr>
 </table>
+
+```bash
+sudo apt-get install virtualbox
+![Image](./doc/.data/install-k3d.gif)
