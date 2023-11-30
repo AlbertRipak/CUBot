@@ -7,9 +7,9 @@
         <th>CACertificates.zip</th>
     </tr>
     <tr>
-        <td><a>https://iit.com.ua/download/productfiles/CACertificates.p7b</a></td>
-        <td><a>https://iit.com.ua/download/productfiles/CAs.json</a></td>
-        <td><a>https://iit.com.ua/download/productfiles/CACertificates.zip</a></td>
+        <td><a href="https://iit.com.ua/download/productfiles/CACertificates.p7b">Download CACertificates.p7b</a></td>
+        <td><a href="https://iit.com.ua/download/productfiles/CAs.json">Download CAs.json</a></td>
+        <td><a href="https://iit.com.ua/download/productfiles/CACertificates.zip">Download CACertificates.zip</a></td>
     </tr>
 </table>
 
